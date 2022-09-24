@@ -1,0 +1,17 @@
+/* .main-div {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    width: min-content;
+} */
+.btn-div {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 350px;
+    height: 100%;
+    margin-left: 50px;
+    margin-top: 10px;
+
+}

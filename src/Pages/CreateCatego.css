@@ -1,0 +1,27 @@
+.create-form label {
+    color: black !important;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px !important;
+}
+
+.create-form label {
+    color: black !important;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px !important;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100%; */
+    color: black;
+}
+
+.form-items {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+
+}
